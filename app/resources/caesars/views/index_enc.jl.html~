@@ -1,0 +1,22 @@
+<h1 class="display-1 text-center">Κρυπτοσύστημα του Καίσαρα</h1>
+<div class="container" style="margin-top: 40px;">
+  <h3>Κρυπτογράφηση</h3>
+
+  <div id="form-enc>">
+    <form hx-post="/caesar"
+	  hx-target="#form-enc">
+      <label for="plaintxt">Plaintext:</label>
+      <input type="text" id="plaintxt" name="plaintxt"/><br><br>
+      <label for="key">Key:</label>
+      <input type="text" id="key" name="key"/><br><br>
+      <input type="submit" value="Encrypt!"/><br><br>
+      <div id="plaintxt-key">	   
+	<% ciphertxt %>
+      </div>
+    </form>
+  </div>
+
+  <br><br>
+  
+
+</div>

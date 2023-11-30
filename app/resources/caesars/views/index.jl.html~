@@ -1,0 +1,75 @@
+<div class="content" style="margin-top: 40px;">
+  <h2 class="display-4 text-center">Κρυπτοσυστημα του Καισαρα</h2>
+  <br>
+  <div class="box">
+  <form hx-post="/caesar/alphabet">
+      <div class="field">
+	<label class="label">Αλφάβητο</label>
+	<input class="input" type="text" id="alphabet" name="alphabet"/>
+      </div>
+      <div hx-get="/caesar/alphabet"
+	   hx-trigger="caesarAlphabet from:body">
+	...
+      </div>
+      <button class="button is-primary">Save!</button>    
+    </form>  
+  </div>
+  
+  <br>
+
+  <div class="box">
+    <form hx-post="/caesar/key">
+      <div class="field">
+	<label class="label">Κλειδί</label>
+	<input class="input" type="text" id="key" name="key"/>
+      </div>
+      <div hx-get="/caesar/key"
+	   hx-trigger="caesarKey from:body">
+	...
+      </div>
+      <button class="button is-primary">Save!</button>    
+    </form>
+  </div>
+  
+  <div class="box">
+    <h4>Κρυπτογραφηση</h4>    
+    <hr>
+    <form hx-post="/caesar">
+      <div class="field">
+	<label class="label">Μήνυμα</label>
+	<input class="input" type="text" id="plaintxt" name="plaintxt"/>
+      </div>      
+      <div class="field">
+	<label class="label">Κρυπτογράφημα</label>
+	<div hx-get="/caesar/enc/"
+	     hx-trigger="caesarEncrypt from:body">
+	  ...
+	</div>
+      </div>      
+	<button class="button is-primary">Encrypt!</button>    
+    </form>
+  </div>
+  
+  <br>
+  
+  <div class="box">
+    <h4>Αποκρυπτογραφηση</h4>
+    <hr>
+    <form hx-post="/caesar">
+      <div class="field">
+	<label class="label">Κρυπτογράφημα</label>
+	<input class="input" type="text" id="ciphertxt" name="ciphertxt"/>
+      </div>
+      <div class="field">
+	<label class=label>Μήνυμα</label>
+	<div hx-get="/caesar/dec/"
+	     hx-trigger="caesarDecrypt from:body">
+	  ...
+	</div>
+      </div>
+
+      <button class="button is-primary">Decrypt!</button>
+    </form>
+  </div>  
+  <br><br>
+</div>

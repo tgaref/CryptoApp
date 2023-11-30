@@ -1,0 +1,78 @@
+<div class="content" style="margin-top: 40px;">
+  <h2 class="display-4 text-center">Μονοαλφαβητικη Αντικατασταση</h2>
+  <br>
+  <div class="box">
+    <form hx-post="/monoalphabetic/alphabet">
+      <div class="field">
+	<label class="label">Αλφάβητο</label>
+	<input class="input" type="text" id="alphabet" name="alphabet"/>
+	<p hx-get="/monoalphabetic/alphabet"
+	   hx-trigger="monoalphabeticAlphabet from:body">
+	  ...
+	</p>
+      </div>      
+      <button class="button is-primary">Save!</button>    
+    </form>
+  </div>
+  
+  <br>
+  
+  <div class="box">
+    <form hx-post="/monoalphabetic/key">
+      <div class="field">
+	<label class="label">Κλειδί</label>
+	<input class="input" type="text" id="key" name="key"/>
+	<p hx-get="/monoalphabetic/key"
+	   hx-trigger="monoalphabeticKey from:body">
+	  ...
+	</p>
+      </div>      
+      <button class="button is-primary">Save!</button>    
+    </form>
+  </div>
+
+  <br>
+
+  <div class="box">
+    <h3>Κρυπτογρaφηση</h3>    
+    <hr>
+    <form hx-post="/monoalphabetic/enc">
+      <div class="field">
+	<label class="label">Μήνυμα</label>
+	<input class="input" type="text" id="plaintxt" name="plaintxt"/>
+      </div>      
+      <div class="field">
+	<label class="label">Κρυπτογράφημα</label>
+	<div hx-get="/monoalphabetic/enc/"
+	     hx-trigger="monoalphabeticEncrypt from:body">
+	  ...
+	</div>
+      </div>
+      
+	<button class="button is-primary">Encrypt!</button>    
+    </form>
+  </div>
+  
+  <br>
+  
+  <div class="box">
+    <h3>Αποκρυπτογραφηση</h3>
+    <hr>
+    <form hx-post="/monoalphabetic/dec">
+      <div class="field">
+	<label class="label">Κρυπτογράφημα</label>
+	<input class="input" type="text" id="ciphertxt" name="ciphertxt"/>
+      </div>
+      <div class="field">
+	<label class=label>Μήνυμα</label>
+	<div hx-get="/monoalphabetic/dec/"
+	     hx-trigger="monoalphabeticDecrypt from:body">
+	  ...
+	</div>
+      </div>
+
+      <button class="button is-primary">Decrypt!</button>
+    </form>
+  </div>  
+  <br><br>
+</div>

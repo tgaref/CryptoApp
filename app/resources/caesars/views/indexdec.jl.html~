@@ -1,0 +1,4 @@
+<div hx-get="/caesar/dec/"
+     hx-trigger="caesarDecrypt from:body">
+  Μήνυμα: <% plaintxt %>
+</div>

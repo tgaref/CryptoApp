@@ -1,0 +1,89 @@
+module MonoalphabeticController
+
+using GenieFramework, Genie.Renderer.Html, Genie.Requests, Genie.Responses
+@genietools
+
+using DataStructures
+
+plaintxt = nothing
+key = nothing
+keyinv =nothing
+ciphertxt = nothing
+alphabet = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ "
+
+function ui()
+    html(:monoalphabetic, :index)
+end
+
+function ui_post_alpha()
+    newalphabet = params(:alphabet, nothing)
+    if ! isnothing(newalphabet)
+        global alphabet = newalphabet
+    end
+    Responses.setheaders(Dict("HX-Trigger" => "monoalphabeticAlphabet"))
+end
+
+function ui_alpha()
+    alphabet
+end
+
+function ui_post_key()
+    newkey = params(:key, nothing)
+    if ! isnothing(newkey)
+        global key = SortedDict{Char, Char}(zip(alphabet, newkey))
+        global keyinv = SortedDict{Char, Char}(zip(newkey, alphabet))
+    end
+    Responses.setheaders(Dict("HX-Trigger" => "monoalphabeticKey"))
+end
+
+function ui_key()
+    string(key)
+end
+
+function ui_post_enc()
+    global plaintxt = params(:plaintxt, nothing)
+    Responses.setheaders(Dict("HX-Trigger" => "monoalphabeticEncrypt"))
+end
+
+function ui_enc()
+    encrypt(key, plaintxt)
+end
+
+function ui_post_dec()
+    global ciphertxt = params(:ciphertxt, nothing)
+    Responses.setheaders(Dict("HX-Trigger" => "monoalphabeticDecrypt"))
+end
+
+function ui_dec()
+    decrypt(keyinv, ciphertxt)
+end
+
+function randompermutation(v)
+    n = length(v)
+    T = eltype(v)
+    available = Set{Int}(1:n)
+    result = T[]
+    for i in 1:n
+        j = rand(available)
+        push!(result, v[j])
+        delete!(available, j)
+    end
+    result    
+end
+
+function generatekeys(alpha)
+    perm = randompermutation(alpha)
+    key_enc = SortedDict(zip(alpha, perm))
+    key_dec = SortedDict(zip(perm, alpha))
+    (key_enc, key_dec)
+end
+
+function encrypt(key::SortedDict{Char, Char}, message::String)
+    map(c -> key[c], message)
+end
+
+function decrypt(key::SortedDict{Char, Char}, ciphertext::String)
+    map(c -> key[c], ciphertext)
+end
+
+end

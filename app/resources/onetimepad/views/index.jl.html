@@ -1,0 +1,107 @@
+<div class="content" style="margin-top: 40px;">
+  <h2 class="display-4 text-center">Μονοαλφαβητικη Αντικατασταση</h2>
+  <br>
+  <div class="box">
+    <form hx-post="/onetimepad/showhex">
+      <div class="field">
+	<label class="label">Κείμενο <i id=icon class="fa fa-arrow-right"></i>  Hex</label>
+	<input class="input" type="text" id="alphabet" name="alphabet"/>
+	<p hx-get="/onetimepad/showhex"
+	   hx-trigger="onetimepadShowhex from:body">
+	  ...
+	</p>
+      </div>      
+      <button class="button is-primary">Convert</button>    
+    </form>
+  </div>  
+  <br>
+  <div class="box">
+    <form hx-post="/onetimepad/showtext">
+      <div class="field">
+	<label class="label">Hex <i id=icon class="fa fa-arrow-right"></i>  Κείμενο</label>
+	<input class="input" type="text" id="alphabet" name="alphabet"/>
+	<p hx-get="/onetimepad/showtext"
+	   hx-trigger="onetimepadShowtext from:body">
+	  ...
+	</p>
+      </div>      
+      <button class="button is-primary">Convert</button>    
+    </form>
+  </div>  
+  
+  <br>
+
+  <div class="box">
+    <form hx-post="/onetimepad/key">
+      <div class="field">
+	<label class="label">Κλειδί</label>
+	<input class="input" type="text" id="key" name="key"/>
+	<p hx-get="/onetimepad/key"
+	   hx-trigger="onetimepadKey from:body">
+	  ...
+	</p>
+      </div>      
+      <button class="button is-primary">Save Key</button>
+    </form>
+  </div>
+
+  <br>
+  
+  <div class="box">
+    <form hx-post="/onetimepad/randkey">
+      <div class="field">
+	<label class="label">Μήκος Κλειδιού</label>
+	<input class="input" type="text" id="randkey" name="randkey"/>
+	<p hx-get="/onetimepad/randkey"
+	   hx-trigger="onetimepadRandKey from:body">
+	  ...
+	</p>
+      </div>      
+      <button class="button is-primary">Get Random Key</button>
+    </form>
+
+  </div>
+
+  <br>
+
+  <div class="box">
+    <h3>Κρυπτογρaφηση</h3>    
+    <hr>
+    <form hx-post="/onetimepad/enc">
+      <div class="field">
+	<label class="label">Μήνυμα</label>
+	<input class="input" type="text" id="plaintxt" name="plaintxt"/>
+      </div>      
+      <div class="field">
+	<label class="label">Κρυπτογράφημα</label>
+	<div hx-get="/onetimepad/enc/"
+	     hx-trigger="onetimepadEncrypt from:body">
+	  ...
+	</div>
+      </div>      
+	<button class="button is-primary">Encrypt</button>    
+    </form>
+  </div>
+  
+  <br>
+  
+  <div class="box">
+    <h3>Αποκρυπτογραφηση</h3>
+    <hr>
+    <form hx-post="/onetimepad/dec">
+      <div class="field">
+	<label class="label">Κρυπτογράφημα</label>
+	<input class="input" type="text" id="ciphertxt" name="ciphertxt"/>
+      </div>
+      <div class="field">
+	<label class=label>Μήνυμα</label>
+	<div hx-get="/onetimepad/dec/"
+	     hx-trigger="onetimepadDecrypt from:body">
+	  ...
+	</div>
+      </div>
+      <button class="button is-primary">Decrypt</button>
+    </form>
+  </div>  
+  <br><br>
+</div>

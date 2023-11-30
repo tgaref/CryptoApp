@@ -1,0 +1,11 @@
+  <div class="box">
+    <form hx-post="/monoalphabetic/alpha">
+      <div class="field">
+	<label class="label">Αλφάβητο</label>
+	<input class="input" type="text" id="alphabet" name="alphabet"/>
+	<p>...</p>
+      </div>
+      
+      <button class="button is-primary">Save!</button>    
+    </form>
+  </div>

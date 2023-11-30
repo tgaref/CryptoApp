@@ -1,0 +1,2175 @@
+┌ Info: 2023-11-29 19:24:05 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:24:06 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:24:06 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:24:07 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:24:07 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:24:07 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:24:10 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 19:24:10 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 19:24:31 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:25:30 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:26:47 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:26:48 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:26:48 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:26:49 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:26:49 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:26:49 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:26:52 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 19:26:53 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 19:27:42 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:27:45 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:28:10 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:28:11 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:28:11 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:28:12 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:28:12 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:28:12 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:28:15 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 19:28:15 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 19:28:44 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:29:13 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:29:14 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:29:14 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:29:15 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:29:15 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:29:15 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:29:15 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:29:18 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 19:29:19 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 19:30:07 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:30:24 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:30:47 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:30:48 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:30:48 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:30:49 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:30:49 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:30:49 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:30:49 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:30:51 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 19:30:52 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Error: 2023-11-29 19:31:45 MethodError: no method matching encrypt(::Nothing, ::Vector{UInt8})
+│ 
+│ Closest candidates are:
+│   encrypt(!Matched::Vector{UInt8}, ::Vector{UInt8})
+│    @ Main.CryptoApp ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:57
+│ 
+│ Stacktrace:
+│   [1] ui_enc()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:45
+│   [2] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [3] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [4] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [5] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [6] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [7] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│   [8] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│   [9] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [10] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [12] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [13] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [14] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [18] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [20] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [23] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [24] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [25] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 19:31:48 MethodError: no method matching encrypt(::Nothing, ::Vector{UInt8})
+│ 
+│ Closest candidates are:
+│   encrypt(!Matched::Vector{UInt8}, ::Vector{UInt8})
+│    @ Main.CryptoApp ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:57
+│ 
+│ Stacktrace:
+│   [1] ui_enc()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:45
+│   [2] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [3] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [4] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [5] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [6] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [7] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│   [8] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│   [9] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [10] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [12] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [13] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [14] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [18] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [20] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [23] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [24] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [25] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 19:34:08 ArgumentError: byte is not an ASCII hexadecimal digit
+│ Stacktrace:
+│   [1] number_from_hex
+│     @ ./strings/util.jl:880 [inlined]
+│   [2] hex2bytes!(dest::Vector{UInt8}, itr::Base.CodeUnits{UInt8, String})
+│     @ Base ./strings/util.jl:868
+│   [3] hex2bytes!
+│     @ ./strings/util.jl:843 [inlined]
+│   [4] hex2bytes(s::String)
+│     @ Base ./strings/util.jl:837
+│   [5] ui_post_key()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:30
+│   [6] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [7] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [8] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [9] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│  [10] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [11] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [12] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [13] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [14] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [16] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [18] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [20] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [21] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [22] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [23] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [24] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [25] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [26] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [27] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [28] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [29] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Info: 2023-11-29 19:35:36 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:36:16 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:36:17 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:36:17 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:36:18 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:36:18 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:36:18 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:36:18 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:36:19 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 19:36:20 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 19:37:32 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:39:18 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:41:17 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:43:54 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:44:50 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:45:41 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:46:23 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:47:19 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:47:33 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:49:50 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:50:23 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:50:47 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:50:58 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:51:43 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:51:59 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:52:34 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:52:35 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:52:35 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:52:36 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:52:36 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:52:36 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:52:36 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 19:52:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 19:52:39 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 19:56:11 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 19:57:56 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:01:30 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:09:20 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:09:44 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:12:07 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:12:14 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:12:40 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:12:41 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:12:41 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:12:42 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:12:42 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:12:42 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:12:42 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:12:43 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 20:12:44 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Error: 2023-11-29 20:13:15 MethodError: no method matching isless(::Int64, ::String)
+│ 
+│ Closest candidates are:
+│   isless(::Real, !Matched::ColorTypes.AbstractGray)
+│    @ ColorTypes ~/.julia/packages/ColorTypes/1dGw6/src/operations.jl:39
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Right}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:161
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Left}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:172
+│   ...
+│ 
+│ Stacktrace:
+│   [1] <(x::Int64, y::String)
+│     @ Base ./operators.jl:343
+│   [2] >(x::String, y::Int64)
+│     @ Base ./operators.jl:369
+│   [3] ui_post_randkey()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:54
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [9] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [10] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [11] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [12] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [13] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [14] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [16] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [19] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [20] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [21] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [22] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [23] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [24] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [25] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [26] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:13:16 MethodError: no method matching isless(::Int64, ::String)
+│ 
+│ Closest candidates are:
+│   isless(::Real, !Matched::ColorTypes.AbstractGray)
+│    @ ColorTypes ~/.julia/packages/ColorTypes/1dGw6/src/operations.jl:39
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Right}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:161
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Left}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:172
+│   ...
+│ 
+│ Stacktrace:
+│   [1] <(x::Int64, y::String)
+│     @ Base ./operators.jl:343
+│   [2] >(x::String, y::Int64)
+│     @ Base ./operators.jl:369
+│   [3] ui_post_randkey()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:54
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [9] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [10] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [11] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [12] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [13] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [14] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [16] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [19] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [20] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [21] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [22] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [23] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [24] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [25] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [26] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:13:17 MethodError: no method matching isless(::Int64, ::String)
+│ 
+│ Closest candidates are:
+│   isless(::Real, !Matched::ColorTypes.AbstractGray)
+│    @ ColorTypes ~/.julia/packages/ColorTypes/1dGw6/src/operations.jl:39
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Right}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:161
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Left}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:172
+│   ...
+│ 
+│ Stacktrace:
+│   [1] <(x::Int64, y::String)
+│     @ Base ./operators.jl:343
+│   [2] >(x::String, y::Int64)
+│     @ Base ./operators.jl:369
+│   [3] ui_post_randkey()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:54
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [9] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [10] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [11] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [12] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [13] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [14] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [16] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [19] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [20] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [21] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [22] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [23] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [24] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [25] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [26] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:13:17 MethodError: no method matching isless(::Int64, ::String)
+│ 
+│ Closest candidates are:
+│   isless(::Real, !Matched::ColorTypes.AbstractGray)
+│    @ ColorTypes ~/.julia/packages/ColorTypes/1dGw6/src/operations.jl:39
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Right}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:161
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Left}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:172
+│   ...
+│ 
+│ Stacktrace:
+│   [1] <(x::Int64, y::String)
+│     @ Base ./operators.jl:343
+│   [2] >(x::String, y::Int64)
+│     @ Base ./operators.jl:369
+│   [3] ui_post_randkey()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:54
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [9] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [10] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [11] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [12] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [13] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [14] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [16] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [19] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [20] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [21] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [22] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [23] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [24] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [25] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [26] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:13:17 MethodError: no method matching isless(::Int64, ::String)
+│ 
+│ Closest candidates are:
+│   isless(::Real, !Matched::ColorTypes.AbstractGray)
+│    @ ColorTypes ~/.julia/packages/ColorTypes/1dGw6/src/operations.jl:39
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Right}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:161
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Left}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:172
+│   ...
+│ 
+│ Stacktrace:
+│   [1] <(x::Int64, y::String)
+│     @ Base ./operators.jl:343
+│   [2] >(x::String, y::Int64)
+│     @ Base ./operators.jl:369
+│   [3] ui_post_randkey()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:54
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [9] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [10] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [11] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [12] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [13] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [14] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [16] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [19] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [20] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [21] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [22] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [23] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [24] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [25] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [26] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Info: 2023-11-29 20:13:45 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Error: 2023-11-29 20:13:53 MethodError: no method matching isless(::Int64, ::String)
+│ 
+│ Closest candidates are:
+│   isless(::Real, !Matched::ColorTypes.AbstractGray)
+│    @ ColorTypes ~/.julia/packages/ColorTypes/1dGw6/src/operations.jl:39
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Right}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:161
+│   isless(!Matched::Intervals.Endpoint{T, Intervals.Direction{:Left}()} where T, ::Any)
+│    @ Intervals ~/.julia/packages/Intervals/V53WF/src/endpoint.jl:172
+│   ...
+│ 
+│ Stacktrace:
+│   [1] <(x::Int64, y::String)
+│     @ Base ./operators.jl:343
+│   [2] >(x::String, y::Int64)
+│     @ Base ./operators.jl:369
+│   [3] ui_post_randkey()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:54
+│   [4] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [5] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [6] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [7] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [8] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [9] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [10] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [11] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [12] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [13] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [14] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [16] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [17] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [19] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [20] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [21] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [22] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [23] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [24] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [25] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [26] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Info: 2023-11-29 20:14:18 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:14:19 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:14:19 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:14:20 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:14:20 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:14:20 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:14:20 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:14:22 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 20:14:23 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 20:17:34 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:17:54 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:18:37 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:19:18 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:39:02 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:39:28 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:39:29 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:39:29 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:39:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:39:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:39:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:39:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:39:32 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 20:39:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2023-11-29 20:40:36 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:41:08 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:41:09 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:41:09 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:41:10 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:41:10 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:41:10 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:41:10 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:41:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 20:41:12 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Error: 2023-11-29 20:44:47 Failed to revise /home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl
+│   exception = (LoadError("/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl", 43, "cannot juxtapose string literal"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007fb3963fe643])
+└ @ Revise /home/tgaref/.julia/packages/Revise/xRltd/src/packagedef.jl:725
+┌ Warning: 2023-11-29 20:44:48 The running code does not match the saved version for the following files:
+│ 
+│   /home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/tgaref/.julia/packages/Revise/xRltd/src/packagedef.jl:833
+┌ Info: 2023-11-29 20:47:28 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:47:29 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:47:29 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:47:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:47:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:47:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:47:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:47:32 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 20:47:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Error: 2023-11-29 20:47:54 MethodError: no method matching encrypt(::Nothing, ::Vector{UInt8})
+│ 
+│ Closest candidates are:
+│   encrypt(!Matched::Vector{UInt8}, ::Vector{UInt8})
+│    @ Main.CryptoApp ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:77
+│ 
+│ Stacktrace:
+│   [1] ui_enc()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:65
+│   [2] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [3] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [4] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [5] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [6] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [7] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│   [8] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│   [9] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [10] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [12] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [13] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [14] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [18] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [20] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [23] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [24] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [25] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:47:55 MethodError: no method matching encrypt(::Nothing, ::Vector{UInt8})
+│ 
+│ Closest candidates are:
+│   encrypt(!Matched::Vector{UInt8}, ::Vector{UInt8})
+│    @ Main.CryptoApp ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:77
+│ 
+│ Stacktrace:
+│   [1] ui_enc()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:65
+│   [2] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [3] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [4] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [5] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [6] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [7] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│   [8] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│   [9] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [10] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [12] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [13] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [14] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [18] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [20] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [23] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [24] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [25] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:47:55 MethodError: no method matching encrypt(::Nothing, ::Vector{UInt8})
+│ 
+│ Closest candidates are:
+│   encrypt(!Matched::Vector{UInt8}, ::Vector{UInt8})
+│    @ Main.CryptoApp ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:77
+│ 
+│ Stacktrace:
+│   [1] ui_enc()
+│     @ Main.CryptoApp.OneTimePadController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/onetimepad/OneTimePadController.jl:65
+│   [2] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [3] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [4] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [5] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [6] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│   [7] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│   [8] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│   [9] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [10] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [11] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [12] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [13] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [14] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [15] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [18] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [20] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [23] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [24] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [25] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Info: 2023-11-29 20:49:43 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:49:54 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:50:08 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:50:42 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:51:13 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:51:44 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Error: 2023-11-29 20:52:10 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:11 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:11 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:11 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:11 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:11 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:11 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:12 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:12 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:12 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:12 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:12 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:12 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:15 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:52:15 ArgumentError: invalid base 10 digit 'q' in "q"
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:137
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Info: 2023-11-29 20:52:39 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:53:02 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:53:28 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:53:29 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:53:29 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:53:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:53:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:53:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:53:30 Watching ["/home/tgaref/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp"]
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-11-29 20:53:32 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:166
+┌ Info: 2023-11-29 20:53:33 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/tgaref/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Error: 2023-11-29 20:53:58 ArgumentError: input string is empty or only contains whitespace
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:109
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Error: 2023-11-29 20:53:59 ArgumentError: input string is empty or only contains whitespace
+│ Stacktrace:
+│   [1] tryparse_internal(#unused#::Type{Int64}, s::String, startpos::Int64, endpos::Int64, base_::Int64, raise::Bool)
+│     @ Base ./parse.jl:109
+│   [2] parse(::Type{Int64}, s::String; base::Nothing)
+│     @ Base ./parse.jl:246
+│   [3] parse(::Type{Int64}, s::String)
+│     @ Base ./parse.jl:245
+│   [4] ui_post_key()
+│     @ Main.CryptoApp.CaesarsController ~/teaching/UOC/TMEM/working-groups/crypto-coding/CryptoApp/app/resources/caesars/CaesarsController.jl:29
+│   [5] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:537
+│   [6] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/UTv5H/src/Router.jl:173
+│   [7] route_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Router.jl:147 [inlined]
+│   [8] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:283
+│   [9] handle_request
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:275 [inlined]
+│  [10] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/macros.jl:123
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [13] #153
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:425 [inlined]
+│  [14] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/process_messages.jl:70
+│  [15] #remotecall_fetch#158
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:450 [inlined]
+│  [16] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:449 [inlined]
+│  [17] #remotecall_fetch#162
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [18] remotecall_fetch
+│     @ ~/.julia/juliaup/julia-1.9.4+0.x64.linux.gnu/share/julia/stdlib/v1.9/Distributed/src/remotecall.jl:492 [inlined]
+│  [19] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:327
+│  [20] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/UTv5H/src/Server.jl:325 [inlined]
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/UTv5H/src/Server.jl:123
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:819 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:816 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [27] macro expansion
+│     @ ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:386 [inlined]
+│  [28] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:514
+│ 
+└ @ Genie.Server /home/tgaref/.julia/packages/Genie/UTv5H/src/Server.jl:339
+┌ Info: 2023-11-29 20:54:54 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:57:05 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:57:25 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 20:57:35 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:03:02 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:20:46 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:25:33 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:28:07 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:31:38 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:31:52 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:34:15 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:34:44 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:35:12 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:35:49 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:36:50 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:37:27 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:37:57 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:52:34 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:53:15 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:53:35 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:54:18 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:54:26 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:55:21 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2023-11-29 21:55:33 Autoreloading
+└ @ GenieAutoReload /home/tgaref/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
